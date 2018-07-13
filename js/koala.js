@@ -18,5 +18,5 @@ function clickCounter(){
 	
 	//get the container, update its contents
 	let container = document.querySelector("p#clickcount")
-	container.innerHTML = counter
+	container.innerHTML = counter;
 }
